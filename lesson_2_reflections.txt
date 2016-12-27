@@ -1,0 +1,2 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is a logical unit to prepare for a commit. It helps in creating a logical unit forcommit operation.
