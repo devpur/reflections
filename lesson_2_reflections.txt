@@ -1,2 +1,15 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is a logical unit to prepare for a commit. It helps in creating a logical unit forcommit operation.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Include only the files associated with one logical unit in the staging area before performing the commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you would like to do some bug fix or do some prototype work.
+
+How do the diagrams help you visualize the branch structure?
+Help to see history of the versions clearly.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging the branches is the inclusion of content from independent and parallel development. The diagram helps us to see the
+contributions to a version from a branch and also see its history.
